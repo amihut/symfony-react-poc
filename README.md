@@ -17,7 +17,9 @@ http://127.0.0.1:8000
 
 ## Dependencies
 https://symfony.com/
+
 https://yarnpkg.com/getting-started/install
+
 https://nodejs.org/en/
 
 ## Source
